@@ -1,0 +1,16 @@
+.footer{
+    display:flex;
+    justify-content: center;
+    height: 60px;
+    background: linear-gradient(120deg, #121212 65%,#2a4a4a );
+    width: 100%;
+    color: white;
+    
+
+    
+}
+.copy{
+    margin-top: 20px;
+   
+  
+}
