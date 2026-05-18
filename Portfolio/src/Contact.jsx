@@ -36,7 +36,7 @@ export default function Contact(){
                 <GitHubIcon/>
                 <LinkedInIcon/>
                 </div>
-                <a href="public/CV.pdf" download="Abdul_CV.pdf"><button>Download CV</button></a>
+                <a href="public/Resume.pdf" download="Abdul_CV.pdf"><button>Download CV</button></a>
                 
          </div>
          <form className="right-contact" onSubmit={sendEmail}>

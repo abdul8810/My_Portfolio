@@ -13,7 +13,7 @@ function Body(){
              building modern web applications.</p>
         </div>
         <div className="body-button">
-             <a href="public/CV.pdf" download="Abdul_CV.pdf">
+             <a href="public/Resume.pdf" download="Abdul_CV.pdf">
              <button>Download CV</button>
          </a>
   
