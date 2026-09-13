@@ -8,7 +8,7 @@ export default function Contact(){
     const sendEmail=(e)=>{
         e.preventDefault();
         emailjs.sendForm(
-            "service_5kv9kdlP",
+            "service_5kv9kdl",
             "template_g9w6gb4",
             e.target,
             "fjP1kFjj4ArWb3DFy"

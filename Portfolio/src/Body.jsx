@@ -21,7 +21,7 @@ function Body(){
         </div>
         
         <div className="right-card">
-            <img src="/myphoto1.jpg"/>
+            <img src="/myphoto1.png"/>
 
         </div>
         </div>

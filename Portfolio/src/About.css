@@ -25,17 +25,18 @@
     }
     
 .right-card2{
-   width:50%;
+    width:50%;
     flex-direction: column;
     margin: 0;
     text-align: left;
     
 }
    .right-card2 h1{
+    margin-bottom: 10px;
     font-size: 50px;
     font-weight: bold;
     color:skyblue;
-    margin-top: 15px;
+    margin-top: 20px;
    }
 
 .right-card2 h2{
@@ -63,8 +64,8 @@
     display: flex;
     justify-content: center;
     /* margin-bottom: 20px; */
-    width:300px;
-    height: 300px;
+    width:700px;
+    height: 900px;
     margin-top: 20px;
     padding: 0px;
 

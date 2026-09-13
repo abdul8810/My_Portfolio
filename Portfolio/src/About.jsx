@@ -3,7 +3,7 @@ export default function About(){
     return(
         <div className="Main-card1">
             <div className="left-card2">
-             <img src="/abdul.jpg" alt="Image"/>
+             <img src="/abdul1.jpg" alt="Image"/>
             </div>
             <div className="right-card2">
                <h1>About ME</h1>

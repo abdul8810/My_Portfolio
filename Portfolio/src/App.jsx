@@ -6,6 +6,7 @@ import MyServices from './MyServices'
 import Contact from './Contact'
 import Footer from './Footer'
 import ScrollTop from './ScrollTop'
+import Projects from './Projects'
 
 function App() {
   return(
@@ -14,6 +15,7 @@ function App() {
     <Body/>
     <About/>
     <MyServices/>
+    <Projects/>
     <Contact/>
     <Footer/>
     <ScrollTop/>
